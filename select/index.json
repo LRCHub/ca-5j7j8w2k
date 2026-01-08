@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "まだ生きれるだろ",
+  "base_artist": "gesunokiwamiotome",
+  "createdAt": "2026-01-08T14:54:01.766594Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "まだ生きれるだろ",
+      "artist": "Gesu No Kiwami Otome",
+      "has_synced": true,
+      "path": "select/01_まだ生きれるだろ_Gesu_No_Kiwami_Otome.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まだ生きれるだろ",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_まだ生きれるだろ_ゲスの極み乙女。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "まだ生きれるだろう",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_02_まだ生きれるだろう_ゲスの極み乙女。.txt"
+    }
+  ]
+}
